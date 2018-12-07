@@ -36,7 +36,6 @@ namespace ConsoleApplication1
                 b = a % b;
                 a = temp;
             }
-
             return a;
         }
 
@@ -44,6 +43,10 @@ namespace ConsoleApplication1
         {
             int temp1 = n / nod(n, d);
             int temp2 = d / nod(n, d);
+            if (nod(n, d)==1)
+            {
+                throw new Exception("Дробь нельзя сократить!");
+            }
             return "Numerator: " + temp1 + " : " + "Denominator: " + temp2;
         }
 
@@ -68,7 +71,9 @@ namespace ConsoleApplication1
 
         private static int kolvozifr(int n)
         {
-            return (int) Math.Log10(n) + 1;
+            n = Math.Abs(n);
+
+            return n.ToString().Length;
         }
 
         public static int[] MathDr()

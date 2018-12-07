@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e265014-ca1f-40ba-95c3-f41643548577" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ConsoleApplication1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/ConsoleApplication1.exe" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-611104165">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="8" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="8" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3859" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3859" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="988539420">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+          <entry key="csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+          <entry key="Csproj" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="348" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="348" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ConsoleApplication1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="921">
+              <caret line="325" column="8" lean-forward="true" selection-start-line="325" selection-start-column="8" selection-end-line="325" selection-end-column="8" />
+              <folding>
+                <marker date="1544202865783" expanded="false" signature="6:63" ph="..." />
+                <marker date="1544202865783" expanded="true" signature="87:11216" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="130:11214" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="160:335" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+                <marker date="1544202865783" expanded="true" signature="385:619" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="411:497" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="527:578" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="637:877" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+                <marker date="1544202865783" expanded="true" signature="952:1185" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="978:1063" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="1093:1144" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="1203:1441" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+                <marker date="1544202865783" expanded="true" signature="1520:1754" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="1546:1632" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="1662:1713" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="1772:1930" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="2015:2247" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2041:2125" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2155:2206" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2265:2423" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="2525:2758" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2551:2636" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2666:2717" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="2776:2937" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="3042:3275" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3068:3153" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3183:3234" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3293:3448" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="3551:3782" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3577:3660" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3690:3741" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="3804:3959" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="4062:4293" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4088:4171" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4201:4252" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4313:4465" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+                <marker date="1544202865783" expanded="true" signature="4564:4794" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4590:4672" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4702:4753" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="4812:4932" ph="/* Тестируем Сокращение дроби ... */" />
+                <marker date="1544202865783" expanded="true" signature="4993:5232" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5019:5110" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5140:5191" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5250:5371" ph="/* Тестируем Сокращение дроби ... */" />
+                <marker date="1544202865783" expanded="true" signature="5439:5677" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5465:5555" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5585:5636" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5695:5798" ph="/* Тестируем сумму двух дробей ... */" />
+                <marker date="1544202865783" expanded="true" signature="5855:6327" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="5881:6205" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="6235:6286" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="6336:6439" ph="/* Тестируем сумму двух дробей ... */" />
+                <marker date="1544202865783" expanded="true" signature="6496:6967" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="6522:6845" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="6875:6926" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="6985:7088" ph="/* Тестируем сумму двух дробей ... */" />
+                <marker date="1544202865783" expanded="true" signature="7145:7614" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="7171:7492" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="7522:7573" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="7632:7726" ph="/* Количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="7799:8034" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="7825:7912" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="7942:7993" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8052:8156" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="8229:8465" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8255:8343" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8373:8424" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8483:8587" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="8656:8904" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8682:8782" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8812:8863" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="8922:9110" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="9198:9471" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="9224:9349" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="9379:9430" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="9491:9679" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="9769:10044" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="9795:9922" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="9952:10003" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="10062:10250" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="10340:10616" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="10366:10494" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="10524:10575" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="10637:10836" ph="/* Тестируем количество цифр в числе. ... */" />
+                <marker date="1544202865783" expanded="true" signature="10935:11203" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="10961:11081" ph="{...}" />
+                <marker date="1544202865783" expanded="true" signature="11111:11162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApplication1/MyCalc.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+              <folding>
+                <marker date="1544202906138" expanded="true" signature="44:3878" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="70:3876" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="267:608" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="680:1011" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="1049:1406" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="1459:1640" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="1496:1607" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="1694:1990" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="1812:1904" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="2040:2407" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="2116:2196" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="2246:2326" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="2451:2540" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="2578:2921" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3004:3869" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3120:3304" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3222:3290" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3360:3546" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3464:3532" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3603:3787" ph="{...}" />
+                <marker date="1544202906138" expanded="true" signature="3705:3773" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>makeshort</find>
+      <find>outp[</find>
+      <find>input2</find>
+      <find>public double[] myFunction(int m, int n, int p){</find>
+      <find>private</find>
+      <find>highest_common_factor_with_first_positive_and_second_zero_numbers</find>
+      <find>short</find>
+      <find>makes</find>
+      <find>ЗНАМЕНАТЕЛЬ</find>
+      <find>MathDr</find>
+      <find>Mathdr</find>
+      <find>Результат: TRUE</find>
+      <find>name</find>
+      <find>TRUE</find>
+      <find>РЕЗУЛЬТАТ : true</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>public</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/234F0A13-016A-4580-8C1B-83FC70207998/58/0d36cafe/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestProject1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApplication1/MyCalc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApplication1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConsoleApplication1/Tests.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/Program.cs" />
+        <option value="$PROJECT_DIR$/TestProject1/Tests.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApplication1/MyCalc.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestProject1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ConsoleApplication1" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApplication1/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApplication1/ConsoleApplication1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e265014-ca1f-40ba-95c3-f41643548577" name="Default Changelist" comment="" />
+      <created>1544101204444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544101204444</updated>
+      <workItem from="1544101217111" duration="6440000" />
+      <workItem from="1544177055194" duration="17797000" />
+      <workItem from="1544201834649" duration="1116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25353000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" sideWeight="0.5007299" side_tool="true" weight="0.25266525" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007299" side_tool="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3488624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" sideWeight="0.49946696" visible="true" weight="0.33586133" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.30877572" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.18390192" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.304371" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="210" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="3" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/234F0A13-016A-4580-8C1B-83FC70207998/58/0d36cafe/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="2921" column="6" selection-start-line="2921" selection-start-column="6" selection-end-line="2921" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApplication1/ConsoleApplication1.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/TestProject1.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApplication1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="39" />
+          <folding>
+            <marker date="1544202474471" expanded="false" signature="6:32" ph="..." />
+            <marker date="1544202474471" expanded="true" signature="63:5403" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="92:5401" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="293:634" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="672:1029" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1075:1255" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1112:1223" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1310:1606" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1428:1520" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1649:2016" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1725:1805" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="1855:1935" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="2061:2151" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="2189:2532" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="2542:2756" ph="/* TODO ЗАДАНИЕ 6 ... */" />
+            <marker date="1544202474471" expanded="true" signature="2830:3695" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="2946:3130" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3048:3116" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3186:3372" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3290:3358" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3429:3613" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3531:3599" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3743:5395" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="3766:4079" ph="/* TODO ЗАДАНИЕ 1 ... */" />
+            <marker date="1544202474471" expanded="true" signature="4095:4148" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="4180:4231" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="4245:4385" ph="/* TODO ЗАДАНИЕ 2 ... */" />
+            <marker date="1544202474471" expanded="true" signature="4468:4551" ph="/* TODO ЗАДАНИЕ 3 ... */" />
+            <marker date="1544202474471" expanded="true" signature="4631:4789" ph="/* TODO ЗАДАНИЕ 3 ... */" />
+            <marker date="1544202474471" expanded="true" signature="4805:4859" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="4891:4980" ph="{...}" />
+            <marker date="1544202474471" expanded="true" signature="5101:5206" ph="/* TODO ЗАДАНИЕ 4 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApplication1/MyCalc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+          <folding>
+            <marker date="1544202906138" expanded="true" signature="44:3878" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="70:3876" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="267:608" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="680:1011" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="1049:1406" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="1459:1640" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="1496:1607" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="1694:1990" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="1812:1904" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="2040:2407" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="2116:2196" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="2246:2326" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="2451:2540" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="2578:2921" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3004:3869" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3120:3304" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3222:3290" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3360:3546" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3464:3532" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3603:3787" ph="{...}" />
+            <marker date="1544202906138" expanded="true" signature="3705:3773" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestProject1/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="325" column="8" lean-forward="true" selection-start-line="325" selection-start-column="8" selection-end-line="325" selection-end-column="8" />
+          <folding>
+            <marker date="1544202865783" expanded="false" signature="6:63" ph="..." />
+            <marker date="1544202865783" expanded="true" signature="87:11216" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="130:11214" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="160:335" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+            <marker date="1544202865783" expanded="true" signature="385:619" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="411:497" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="527:578" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="637:877" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+            <marker date="1544202865783" expanded="true" signature="952:1185" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="978:1063" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="1093:1144" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="1203:1441" ph="/* Тестируем функцию ввода дроби (числителя и знаменателя) с клавиатуры ... */" />
+            <marker date="1544202865783" expanded="true" signature="1520:1754" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="1546:1632" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="1662:1713" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="1772:1930" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="2015:2247" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2041:2125" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2155:2206" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2265:2423" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="2525:2758" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2551:2636" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2666:2717" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="2776:2937" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="3042:3275" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3068:3153" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3183:3234" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3293:3448" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="3551:3782" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3577:3660" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3690:3741" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="3804:3959" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="4062:4293" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4088:4171" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4201:4252" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4313:4465" ph="/* Тестируем функцию Наибольший общий делитель двух целых чисел. ... */" />
+            <marker date="1544202865783" expanded="true" signature="4564:4794" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4590:4672" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4702:4753" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="4812:4932" ph="/* Тестируем Сокращение дроби ... */" />
+            <marker date="1544202865783" expanded="true" signature="4993:5232" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5019:5110" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5140:5191" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5250:5371" ph="/* Тестируем Сокращение дроби ... */" />
+            <marker date="1544202865783" expanded="true" signature="5439:5677" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5465:5555" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5585:5636" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5695:5798" ph="/* Тестируем сумму двух дробей ... */" />
+            <marker date="1544202865783" expanded="true" signature="5855:6327" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="5881:6205" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="6235:6286" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="6336:6439" ph="/* Тестируем сумму двух дробей ... */" />
+            <marker date="1544202865783" expanded="true" signature="6496:6967" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="6522:6845" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="6875:6926" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="6985:7088" ph="/* Тестируем сумму двух дробей ... */" />
+            <marker date="1544202865783" expanded="true" signature="7145:7614" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="7171:7492" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="7522:7573" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="7632:7726" ph="/* Количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="7799:8034" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="7825:7912" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="7942:7993" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8052:8156" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="8229:8465" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8255:8343" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8373:8424" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8483:8587" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="8656:8904" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8682:8782" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8812:8863" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="8922:9110" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="9198:9471" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="9224:9349" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="9379:9430" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="9491:9679" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="9769:10044" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="9795:9922" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="9952:10003" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="10062:10250" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="10340:10616" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="10366:10494" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="10524:10575" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="10637:10836" ph="/* Тестируем количество цифр в числе. ... */" />
+            <marker date="1544202865783" expanded="true" signature="10935:11203" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="10961:11081" ph="{...}" />
+            <marker date="1544202865783" expanded="true" signature="11111:11162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
